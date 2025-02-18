@@ -5,8 +5,8 @@
 <p>Geovane Julio Candido Ferreira Milani</p>
 
 ### Repositórios
-<a>https://github.com/Geovane-Julio/profissoes.git</a>
-<a>https://github.com/CaIO-682/Pericia.git</a>
+<a>https://github.com/Geovane-Julio/profissoes.git</a><br>
+<a>https://github.com/CaIO-682/Pericia.git</a><br>
 <a>https://github.com/HenriquePSDev/DesenvolvedorDeSoftware.git</a>
 
 ## 📘 Profissão: Psicólogo
