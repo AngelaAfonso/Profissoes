@@ -1,4 +1,15 @@
-# 📘 Profissão: Psicólogo
+### Alunos: 
+<p>Angela Reis Afonso</p>
+<p>Caio Yukio Sasaki</p>
+<p>Henrique Pereira da Silva</p>
+<p>Geovane Julio Candido Ferreira Milani</p>
+
+### Repositórios
+<a>https://github.com/Geovane-Julio/profissoes.git</a>
+<a>https://github.com/CaIO-682/Pericia.git</a>
+<a>https://github.com/HenriquePSDev/DesenvolvedorDeSoftware.git</a>
+
+## 📘 Profissão: Psicólogo
 
 ## 🧠 O que é um Psicólogo?
 O psicólogo é um profissional da área da saúde mental que estuda o comportamento humano, os processos mentais e as emoções. Ele trabalha ajudando indivíduos, grupos e organizações a lidarem com desafios emocionais, cognitivos e sociais.
